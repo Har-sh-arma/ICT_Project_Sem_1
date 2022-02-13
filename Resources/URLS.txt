@@ -5,3 +5,4 @@ https://www.youtube.com/watch?v=J_Clau1bYco - github basics and setup
 https://www.arduino.cc/en/Reference/WiFiServer
 https://www.arduino.cc/en/Reference/WiFiClientConnect
 https://techtutorialsx.com/2018/05/18/esp32-arduino-socket-server-getting-remote-client-ip/
+https://docs.arduino.cc/library-examples/wifi-library/WiFiWebServer - http if we require to serve through http
