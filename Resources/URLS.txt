@@ -1,3 +1,5 @@
-https://create.arduino.cc/projecthub/imjeffparedes/add-wifi-to-arduino-uno-663b9e
+https://create.arduino.cc/projecthub/imjeffparedes/add-wifi-to-arduino-uno-663b9e - hardware connections
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.js/-j-s-o-n/
-https://www.youtube.com/watch?v=N3NZ9hno66A
+https://www.youtube.com/watch?v=N3NZ9hno66A - socket in Kotlin
+https://www.youtube.com/watch?v=J_Clau1bYco - github basics and setup
+https://www.arduino.cc/en/Reference/WiFiServer
