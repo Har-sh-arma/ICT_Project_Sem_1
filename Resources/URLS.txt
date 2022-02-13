@@ -3,3 +3,5 @@ https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.js/-j-s-o-n/
 https://www.youtube.com/watch?v=N3NZ9hno66A - socket in Kotlin
 https://www.youtube.com/watch?v=J_Clau1bYco - github basics and setup
 https://www.arduino.cc/en/Reference/WiFiServer
+https://www.arduino.cc/en/Reference/WiFiClientConnect
+https://techtutorialsx.com/2018/05/18/esp32-arduino-socket-server-getting-remote-client-ip/
