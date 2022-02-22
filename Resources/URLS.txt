@@ -7,4 +7,8 @@ https://www.arduino.cc/en/Reference/WiFiClientConnect
 https://techtutorialsx.com/2018/05/18/esp32-arduino-socket-server-getting-remote-client-ip/
 https://docs.arduino.cc/library-examples/wifi-library/WiFiWebServer - http if we require to serve through http
 https://zetcode.com/python/socket/
+
 https://create.arduino.cc/projecthub/imjeffparedes/add-wifi-to-arduino-uno-663b9e
+
+https://create.arduino.cc/projecthub/benjineering/easy-iot-remotely-controlling-esp32-using-an-android-app-99a1dd
+
