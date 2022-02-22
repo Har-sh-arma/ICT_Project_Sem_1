@@ -12,3 +12,6 @@ https://create.arduino.cc/projecthub/imjeffparedes/add-wifi-to-arduino-uno-663b9
 
 https://create.arduino.cc/projecthub/benjineering/easy-iot-remotely-controlling-esp32-using-an-android-app-99a1dd
 
+FOR SENDING JSON THROUGH ESP32 USING HTTPS:
+https://www.techcoil.com/blog/how-to-post-json-data-to-a-http-server-endpoint-from-your-esp32-development-board-with-arduinojson/
+
