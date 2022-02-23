@@ -15,3 +15,6 @@ https://create.arduino.cc/projecthub/benjineering/easy-iot-remotely-controlling-
 FOR SENDING JSON THROUGH ESP32 USING HTTPS:
 https://www.techcoil.com/blog/how-to-post-json-data-to-a-http-server-endpoint-from-your-esp32-development-board-with-arduinojson/
 
+BASIC CODE FOR PRINTING ON SERIAL MONITOR DATA OUTPUT OF DHT-11:
+https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239
+
