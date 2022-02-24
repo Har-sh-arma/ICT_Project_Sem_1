@@ -18,3 +18,6 @@ https://www.techcoil.com/blog/how-to-post-json-data-to-a-http-server-endpoint-fr
 BASIC CODE FOR PRINTING ON SERIAL MONITOR DATA OUTPUT OF DHT-11:
 https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239
 
+**USING ARDUINOJSON.H LIBRARY TUTS:
+https://www.youtube.com/playlist?list=PLh3mlyFFKnrnSHPPTTu4Vduvtv46wCuLZ
+
