@@ -7,4 +7,19 @@ https://www.arduino.cc/en/Reference/WiFiClientConnect
 https://techtutorialsx.com/2018/05/18/esp32-arduino-socket-server-getting-remote-client-ip/
 https://docs.arduino.cc/library-examples/wifi-library/WiFiWebServer - http if we require to serve through http
 https://zetcode.com/python/socket/
+
+https://create.arduino.cc/projecthub/imjeffparedes/add-wifi-to-arduino-uno-663b9e
+
 https://create.arduino.cc/projecthub/benjineering/easy-iot-remotely-controlling-esp32-using-an-android-app-99a1dd
+
+***FOR SENDING JSON THROUGH ESP32 USING HTTPS:
+https://www.techcoil.com/blog/how-to-post-json-data-to-a-http-server-endpoint-from-your-esp32-development-board-with-arduinojson/
+
+BASIC CODE FOR PRINTING ON SERIAL MONITOR DATA OUTPUT OF DHT-11:
+https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239
+
+**USING ARDUINOJSON.H LIBRARY TUTS:
+https://www.youtube.com/playlist?list=PLh3mlyFFKnrnSHPPTTu4Vduvtv46wCuLZ
+
+https://icircuit.net/arduino-interfacing-arduino-uno-esp32/2134
+
