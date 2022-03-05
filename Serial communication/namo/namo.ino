@@ -3,7 +3,7 @@
 SoftwareSerial mycode(34,35);
  void setup() 
  {
-  Serial.begin(115200);
+  Serial.begin(9600);
   mycode.begin(9600);
  }
  
