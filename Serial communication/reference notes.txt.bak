@@ -1,0 +1,6 @@
+In the initial code to be uploaded on the Arduino Uno :-
+
+we are doing serial communication b/w Arduino and ESP32, for that we utilise the
+library <SoftwareSerial.h> and using the class 'SoftwareSerial'.
+
+an object sw is created with input to RX and TX
