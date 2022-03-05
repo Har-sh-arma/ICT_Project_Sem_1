@@ -22,12 +22,6 @@ void loop() {
   // Read temperature as Fahrenheit (isFahrenheit = true)
   float f = dht.readTemperature(true);
 
-  // Check if any reads failed and exit early (to try again).
-//  if (isnan(h) || isnan(t) || isnan(f)) 
-//  {
-//    Serial.println(F("Failed to read from DHT sensor!"));
-//    return;
-//  }
 
  Serial.print("{\"Temperature_C\":");
  Serial.print(t);
