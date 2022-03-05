@@ -23,3 +23,5 @@ https://www.youtube.com/playlist?list=PLh3mlyFFKnrnSHPPTTu4Vduvtv46wCuLZ
 
 https://icircuit.net/arduino-interfacing-arduino-uno-esp32/2134
 
+**https://randomnerdtutorials.com/esp32-web-server-arduino-ide/**
+
