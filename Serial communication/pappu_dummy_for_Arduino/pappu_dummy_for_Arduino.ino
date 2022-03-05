@@ -6,5 +6,5 @@ void setup()
 void loop() 
 {
   Serial.println("Hello from arduino");
-  delay(4000);
+  delay(1500);
 }

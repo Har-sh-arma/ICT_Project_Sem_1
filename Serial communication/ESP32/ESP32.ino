@@ -1,7 +1,6 @@
 #include<WiFi.h>
-#include<SoftwareSerial.h>
-
-SoftwareSerial meraserial (28,35); // rx and tx
+#define RXp2 16
+#define TXp2 17
 // Update these with values suitable for your network.
 const char* ssid = "coco";
 const char* password = "yougotitdidyou";
@@ -27,13 +26,13 @@ void setup_wifi()
 
 void setup() {
   Serial.begin(115200);
-  meraserial.begin(9600);
+  Serial2.begin(9600, SERIAL_8N1, RXp2, TXp2);
+
 //  Serial.setTimeout(500);// Set time out for 
   setup_wifi();
 }
 
 void loop() {
-   String message = meraserial.readStringUntil('\r');
-   Serial.println(message);
+   Serial.println(Serial2.readString());
    delay(1000);
  }
