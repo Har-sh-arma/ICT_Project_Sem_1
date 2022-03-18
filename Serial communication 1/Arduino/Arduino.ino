@@ -10,20 +10,28 @@ void setup()
   dht.begin();
 }
 
-void loop() 
-  {
+void loop() {
   // Wait a few seconds between measurements.
-  int A = analogRead(A0);
+  delay(2000);
 
   // Reading temperature or humidity takes about 250 milliseconds!
   // Sensor readings may also be up to 2 seconds 'old' (its a very slow sensor)
   float h = dht.readHumidity();
   // Read temperature as Celsius (the default)
   float t = dht.readTemperature();
-  if(A>600)
-  {
-  Serial.print(t);
-  Serial.print(h);
-  delay(2000);
-  }
+  // Read temperature as Fahrenheit (isFahrenheit = true)
+  float f = dht.readTemperature(true);
+
+
+ Serial.print("{\"Temperature_C\":");
+ Serial.print(t);
+ Serial.println(",");
+ Serial.print("\"Temperature_F\":");
+ Serial.print(f);
+ Serial.println(",");
+ Serial.print("\"Humidity\":");
+ Serial.print(h);
+ Serial.println(",");
+ Serial.println("}");
+ Serial.println();
 }
