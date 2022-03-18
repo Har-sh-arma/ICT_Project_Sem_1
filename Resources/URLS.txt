@@ -25,3 +25,5 @@ https://icircuit.net/arduino-interfacing-arduino-uno-esp32/2134
 
 **https://randomnerdtutorials.com/esp32-web-server-arduino-ide/**
 
+MQTT:
+https://youtu.be/LvzCeBce2mU
