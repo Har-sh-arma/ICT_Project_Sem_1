@@ -15,7 +15,7 @@ String header;
 // Set your Static IP address
 IPAddress local_IP(192,168,29,20);
 // Set your Gateway IP address
-IPAddress gateway(192,168,29,1);
+IPAddress gateway(192,168,29,1);   
 
 IPAddress subnet(255, 255, 255, 0);
 IPAddress primaryDNS(1,0,0,1);   //optional

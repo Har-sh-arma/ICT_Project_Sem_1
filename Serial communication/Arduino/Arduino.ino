@@ -9,7 +9,7 @@ void setup()
   Serial.begin(9600);
   dht.begin();
 }
-
+   
 void loop() 
   {
   // Wait a few seconds between measurements.
